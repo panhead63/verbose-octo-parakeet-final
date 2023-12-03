@@ -10,16 +10,11 @@
   padding:6px; 
 }
 
-.responsive{
-  position: center;
-}
+
 
 #tumbly-box {
- position:absolute; 
  top: 48px;
  left: 6%; 
- width: 580px; 
- height: 600px; 
  background-color: #FF5733;
  padding: 12px; 
  display:flex;
@@ -32,7 +27,6 @@
 .month-box {
   height:50px;
   width:50px;
-  background: tomato;
   font-size: 20px;
   text-align: center;
   margin: 10px;
