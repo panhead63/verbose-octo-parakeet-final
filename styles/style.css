@@ -1,11 +1,14 @@
 #console-box{
-  position:absolute;
-  right:48px;
-  height:400px;
-  width:300px;
+  position:relative;
+  height:300px;
+  width:40%;
   background-color:#000;
   color: #55ff55;
   font-family: monospace;
   padding:6px; 
+  margin: 2% auto;
+  overflow: hidden;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.12);
+  border: 2px solid #161616;
+  font-size: 14px;
 }
-
