@@ -21,6 +21,17 @@
  justify-content:center; 
 }
 
+.tumbly-month {
+  display:flex;
+  width: 420px; 
+  flex-flow: row wrap; 
+  border: solid 1px; 
+  justify-content: center; 
+  align-items: center; 
+  align-content: center; 
+  margin: 0px; 
+}
+
 .month-box {
   height:50px;
   width:50px;
